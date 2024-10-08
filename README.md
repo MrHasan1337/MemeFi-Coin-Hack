@@ -21,7 +21,7 @@ Free & Open Source (:
    pkg install python
    pkg install zip
    git clone https://github.com/MrHasan1337/MemeFi-Coin-Hack
-   cd MemeFi-Coin-Hack
+   cd MemeFi-Coin-Hack/script
    unzip script.zip
    python main.py
 
@@ -30,3 +30,5 @@ Free & Open Source (:
    ```shell
    cd MemeFi-Coin-Hack
    python main.py
+
+
