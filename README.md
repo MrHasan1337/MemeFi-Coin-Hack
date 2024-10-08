@@ -20,6 +20,7 @@ Free & Open Source (:
    apt upgrade -y
    pkg install python
    pkg install zip
+   rm -rf MemeFi-Coin-Hack
    git clone https://github.com/MrHasan1337/MemeFi-Coin-Hack
    cd MemeFi-Coin-Hack
    unzip script.zip
